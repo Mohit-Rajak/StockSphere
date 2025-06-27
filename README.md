@@ -2,7 +2,7 @@
 
 ## 🧩 Project Overview
 
-_**StockSphere** is a stock tracking and portfolio management web application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. The platform enables users to monitor live market data, manage stock portfolios, and utilize a custom dashboard interface with secure user authentication. It includes admin tools, responsive UI, and supports scalable backend APIs._
+_**StockSphere** is a stock tracking and portfolio management web application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with BootStrap CSS. The platform enables users to monitor live market data, manage stock portfolios, and utilize a custom dashboard interface with secure user authentication. It includes admin tools, responsive UI, and supports scalable backend APIs._
 
 ---
 
