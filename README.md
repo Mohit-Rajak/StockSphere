@@ -39,4 +39,6 @@ StockSphere/
 
 ### 1. Clone the Repository
 ```bash
+git clone https://github.com/Mohit-Rajak/StockSphere.git
+cd StockSphere
 
