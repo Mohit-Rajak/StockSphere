@@ -123,4 +123,4 @@ LinkedIn : https://www.linkedin.com/in/Mohit-rajak/
 
 ## Thank You
 
-Thank you for exploring Chat App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+Thank you for exploring Stock Market App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
