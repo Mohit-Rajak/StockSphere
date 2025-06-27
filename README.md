@@ -72,10 +72,10 @@ _**StockSphere** is a stock tracking and portfolio management web application bu
 
     Configure the following environment variables by creating a .env file in the root of Forntend and Backend Folder:
 
-    Frontend Folder :
+    Backend Folder :
 
     ```bash
-    VITE_BACKEND_URL=http://localhost:8080
+    VITE_BACKEND_URL=http://localhost:9000
     ```
 
 
